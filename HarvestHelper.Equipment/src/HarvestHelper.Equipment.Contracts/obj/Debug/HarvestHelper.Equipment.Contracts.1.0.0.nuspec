@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>HarvestHelper.Equipment.Contracts</id>
+    <version>1.0.0</version>
+    <authors>HarvestHelper.Equipment.Contracts</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\DuartePC\source\repos\HarvestHelper\HarvestHelper.Equipment\src\HarvestHelper.Equipment.Contracts\bin\Debug\net5.0\HarvestHelper.Equipment.Contracts.dll" target="lib\net5.0\HarvestHelper.Equipment.Contracts.dll" />
+  </files>
+</package>

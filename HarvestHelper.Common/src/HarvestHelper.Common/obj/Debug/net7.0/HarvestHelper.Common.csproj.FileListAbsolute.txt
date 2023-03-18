@@ -1,0 +1,12 @@
+C:\Users\DuartePC\source\repos\HarvestHelper\HarvestHelper.Common\src\HarvestHelper.Common\bin\Debug\net7.0\HarvestHelper.Common.deps.json
+C:\Users\DuartePC\source\repos\HarvestHelper\HarvestHelper.Common\src\HarvestHelper.Common\bin\Debug\net7.0\HarvestHelper.Common.dll
+C:\Users\DuartePC\source\repos\HarvestHelper\HarvestHelper.Common\src\HarvestHelper.Common\bin\Debug\net7.0\HarvestHelper.Common.pdb
+C:\Users\DuartePC\source\repos\HarvestHelper\HarvestHelper.Common\src\HarvestHelper.Common\obj\Debug\net7.0\HarvestHelper.Common.csproj.AssemblyReference.cache
+C:\Users\DuartePC\source\repos\HarvestHelper\HarvestHelper.Common\src\HarvestHelper.Common\obj\Debug\net7.0\HarvestHelper.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DuartePC\source\repos\HarvestHelper\HarvestHelper.Common\src\HarvestHelper.Common\obj\Debug\net7.0\HarvestHelper.Common.AssemblyInfoInputs.cache
+C:\Users\DuartePC\source\repos\HarvestHelper\HarvestHelper.Common\src\HarvestHelper.Common\obj\Debug\net7.0\HarvestHelper.Common.AssemblyInfo.cs
+C:\Users\DuartePC\source\repos\HarvestHelper\HarvestHelper.Common\src\HarvestHelper.Common\obj\Debug\net7.0\HarvestHelper.Common.csproj.CoreCompileInputs.cache
+C:\Users\DuartePC\source\repos\HarvestHelper\HarvestHelper.Common\src\HarvestHelper.Common\obj\Debug\net7.0\HarvestHelper.Common.dll
+C:\Users\DuartePC\source\repos\HarvestHelper\HarvestHelper.Common\src\HarvestHelper.Common\obj\Debug\net7.0\refint\HarvestHelper.Common.dll
+C:\Users\DuartePC\source\repos\HarvestHelper\HarvestHelper.Common\src\HarvestHelper.Common\obj\Debug\net7.0\HarvestHelper.Common.pdb
+C:\Users\DuartePC\source\repos\HarvestHelper\HarvestHelper.Common\src\HarvestHelper.Common\obj\Debug\net7.0\ref\HarvestHelper.Common.dll

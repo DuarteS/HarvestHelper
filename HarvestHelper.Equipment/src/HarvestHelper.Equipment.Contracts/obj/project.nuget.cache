@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KIJS5VfAHXRTuFM3bBxSp4yehcYXw/Pr/jibm6mBLZUsWnhVrTNhT3eSchwu6HcsfKajQwVB2WjyphavkwBp9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DuartePC\\source\\repos\\HarvestHelper\\HarvestHelper.Equipment\\src\\HarvestHelper.Equipment.Contracts\\HarvestHelper.Equipment.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DuartePC\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\DuartePC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\DuartePC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

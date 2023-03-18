@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HarvestHelper.EquipmentInventory.Service.props" />
+</Project>
